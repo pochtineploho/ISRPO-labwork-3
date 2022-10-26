@@ -1,3 +1,6 @@
 [submodule "Labwork_ISR_zero_version_QueueBot"]
 	path = Labwork_ISR_zero_version_QueueBot
 	url = https://github.com/a13v3r/Labwork_ISR_zero_version_QueueBot
+[submodule "LabISRPO2"]
+	path = LabISRPO2
+	url = https://github.com/pochtineploho/LabISRPO2
